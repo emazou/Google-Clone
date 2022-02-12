@@ -1,2 +1,1 @@
-# cv
-Una hoja increible
+Utilicé solo CSS y HTML
